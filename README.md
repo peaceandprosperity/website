@@ -1,42 +1,12 @@
-# Content v2 Minimal Starter
+# Website
 
-Look at the [Content documentation](https://content.nuxt.com/) to learn more.
+Scaffolded with `nuxi init -t content`.
 
-## Setup
+## Run Locally
 
-Make sure to install the dependencies:
+Make sure you have Node >= 18.
 
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install
 ```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
+pnpm i
+pnpm dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
