@@ -5,6 +5,7 @@ Website powered by Medusa Storefront and React.
 ## Running
 
 ```bash
+cd pnp-store
 npx @medusajs/medusa-cli develop
 ```
 
