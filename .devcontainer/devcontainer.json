@@ -7,8 +7,7 @@
 	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
 	"features": {
 		"ghcr.io/devcontainers/features/github-cli:1": {},
-		"ghcr.io/joshuanianji/devcontainer-features/github-cli-persistence:1": {},
-		"ghcr.io/joshuanianji/devcontainer-features/mount-pnpm-store:1": {}
+		"ghcr.io/joshuanianji/devcontainer-features/github-cli-persistence:1": {}
 	}
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
